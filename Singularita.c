@@ -22,7 +22,7 @@ int main() {
 	
 	objem = (float) vaha / hustotatela; //vypocita objem koule z tveho tela (fakt picovina)
 	
-	printf("Objem kule z tvyho tela by byl %0.15f metru ctverecnich LOL ted vypocitame polomer", objem);
+	printf("Objem kule z tvyho tela by byl %0.15f metru krychlovych LOL ted vypocitame polomer", objem);
 	
 	printf("\n-------------------------------- \n \n \n");
 	
